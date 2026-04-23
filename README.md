@@ -3,9 +3,10 @@ Powerful Repo Links about AI Systems.
 
 
 
-career-ops
+1. career-ops
 Public-------https://github.com/santifer/career-ops.git
 
+https://santifer.io/career-ops-system
 
 About
 
