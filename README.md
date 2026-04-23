@@ -61,3 +61,16 @@ AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, Git
    
 https://particles.casberry.in
 
+
+
+7. # VOX CPM Work Flow (Text to voice) better than ElevenLabs and SARVAM.
+
+Sample workflow -https://www.notion.so/VOX-CPM-Work-Flow-34466d0bd4f08087ba64f33804e13946
+Github -https://github.com/OpenBMB/VoxCPM.git
+
+About
+
+VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning
+
+
+8. 
