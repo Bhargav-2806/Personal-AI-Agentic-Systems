@@ -77,4 +77,12 @@ VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice D
 
    https://github.com/lowlighter/metrics.git
 
+
+
+7. Model Comparisons Best source:
+
+https://sebastianraschka.com/llm-architecture-gallery/?mcp_token=eyJwaWQiOjExODAwODIsInNpZCI6MjkwMzkyNDI0LCJheCI6IjZhNjBlZmU4ZDFlMjk1N2ZiNWY5NWE1OGZhYjYwMmE4IiwidHMiOjE3NzczMDMzMjUsImV4cCI6MTc3OTcyMjUyNX0.kR4pVRKI33rSozc0jQk8pZ4wS7LsqLruI_UCvDRQui4
+
+
+
    
