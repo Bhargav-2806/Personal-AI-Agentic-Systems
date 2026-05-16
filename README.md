@@ -91,4 +91,26 @@ https://vishnuai.in/3d-website-prompt
 https://app.emergent.sh/landing/?utm_shift=redirect&via=aivish
 
 
+-------------------------------------------------------------------------------
+
+16th may 2026
+
+New AI - https://subq.ai
+
+
+
+3D website prompts: https://vishnuai.in/3d-website-prompt
+
+https://app.emergent.sh/landing/?utm_shift=redirect&via=aivish
+https://opencut.app
+
+
+
+How to Run Claude Code for Free Using Ollama and Open Router
+https://www.mindstudio.ai/blog/how-to-run-claude-code-free-ollama-open-router
+
+
+
+
+
    
