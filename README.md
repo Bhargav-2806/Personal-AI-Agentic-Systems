@@ -120,4 +120,10 @@ https://flame-lunaria-aa1.notion.site/The-4-Skill-Resume-System-Execution-Guide-
 
 
 
+
+<img width="1379" height="911" alt="Screenshot 2026-05-16 at 20 55 55" src="https://github.com/user-attachments/assets/4847113d-605c-48df-80fb-f81b2dd822c0" />
+https://wavespeed.ai
+
+
+
    
