@@ -111,6 +111,13 @@ https://www.mindstudio.ai/blog/how-to-run-claude-code-free-ollama-open-router
 
 
 
+GROK beta lives in CLI - https://x.ai/cli
+
+
+
+Resume Prep 100% best 
+https://flame-lunaria-aa1.notion.site/The-4-Skill-Resume-System-Execution-Guide-36266d0bd4f080768954d3b09161b0cb
+
 
 
    
