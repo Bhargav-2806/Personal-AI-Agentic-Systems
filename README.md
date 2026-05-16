@@ -1,4 +1,4 @@
-# Personal-AI-Agentic-Systems
+# Personal-AI-Agentic-System Resources
 Powerful Repo Links about AI Systems. 
 
 
